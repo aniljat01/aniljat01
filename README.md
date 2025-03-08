@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Anil Choudhary  
 
-<!--
-**aniljat01/aniljat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Analyst | SkillCircle Trainee**  
+🔍 Passionate about turning data into actionable insights and solving real-world problems with analytics.  
 
-Here are some ideas to get you started:
+## 🔹 Key Skills  
+- Data Analysis & Visualization  
+- Business Intelligence & Reporting  
+- Statistical Analysis & Predictive Modeling  
+- Data Cleaning & Preprocessing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Technical Skills  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)  
+- **Databases:** SQL, PostgreSQL, MySQL  
+- **BI Tools:** Power BI, Tableau  
+- **Data Processing:** Excel, Google Sheets  
+- **Machine Learning:** Scikit-Learn, Regression & Classification Models  
+
+## 🔹 Connect With Me  
+- 📩 Email: [anilpaner@gmail.com](mailto:anilpaner@gmail.com)  
+- 💼 LinkedIn: [Anil Choudhary](https://www.linkedin.com/in/anil-choudhary-53340426b/)  
+- 🖥️ GitHub: [aniljat01](https://github.com/aniljat01)  
+
+📊 Always eager to learn and collaborate on data-driven projects!  
